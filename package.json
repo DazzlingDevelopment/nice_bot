@@ -1,0 +1,33 @@
+{
+  "name": "nice_bot",
+  "version": "1.0.0",
+  "description": "A really nice bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazzlingDevelopment/nice_bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "heroku"
+  ],
+  "author": "Doug_Z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DazzlingDevelopment/nice_bot/issues"
+  },
+  "homepage": "https://github.com/DazzlingDevelopment/nice_bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "npm": "^5.7.1",
+    "package.json": "^2.0.1"
+  },
+  "engines": {
+  	"node": "9.x",
+  	"npm": "*"
+  }
+}
